@@ -4,9 +4,17 @@
 Sports classification has considerable importance for digital content archiving in broadcasting companies. It is also a subdivision of human action recognition, which further contributes to understand the context of video scenes. In this work, deep neural networks are used, to classify 15 individual sports classes.
 
 ### Dataset
+The Dataset can be download from the link below :
 
 
 #### Test Data Split
+Collected data are split into training and testing sets with a ratio of 75%:25%.
+
+|               |   X   |   Y   |
+| ------------- | ----- | ----- |
+| Training      | 3451  | 3451  |
+| Testing       | 1151  | 1151  |
+| Total         | 4602  | 4602  |
 
 ### Required Libraries
 * keras - a high-level neural networks API running on top of TensorFlow
@@ -23,7 +31,8 @@ $ jupyter notebook
 
 ### Authors
 
-* **Usama Naveed** -https://github.com/usamanaveed900)
+* **Usama Naveed** - (https://github.com/usamanaveed900)
+* **Instagram** - (https://www.instagram.com/naveedusama/)
 
 See also the list of [Projects] (https://github.com/usamanaveed900?tab=repositories) i have woked on.
 
